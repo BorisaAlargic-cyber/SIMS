@@ -1,0 +1,4 @@
+dsadas|test1|123|Petar|Peric|Administratior
+dasdasdsa|test2|123|Mika|Mikic|DrugDealer
+5566|test3|12345|MItar|Zikic|Doctor
+12345|doktor|12345|Doktor|doktorovic|Doctor

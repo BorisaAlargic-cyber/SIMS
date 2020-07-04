@@ -1,0 +1,57 @@
+﻿<UserControl x:Class="UI.Components.Content.View.ContentView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:UI.Components.Content.View"
+             xmlns:xcad="http://schemas.xceed.com/wpf/xaml/avalondock"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+             mc:Ignorable="d" 
+             xmlns:dialogs="clr-namespace:UI.Dialog.View"
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+
+        <Grid Visibility="{Binding UserVisibility}">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            
+            <dialogs:UserView></dialogs:UserView>
+        </Grid>
+
+        <Grid Visibility="{Binding DrugVisibility}">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            
+            <dialogs:DrugView></dialogs:DrugView>
+        </Grid>
+
+        <Grid Visibility="{Binding RecepieVisibility}">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <dialogs:RecepieView></dialogs:RecepieView>
+        </Grid>
+
+        <Grid Visibility="{Binding ReceitVisibility}">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <dialogs:ReceitView></dialogs:ReceitView>
+        </Grid>
+    </Grid>
+</UserControl>

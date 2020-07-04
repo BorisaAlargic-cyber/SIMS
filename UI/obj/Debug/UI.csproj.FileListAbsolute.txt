@@ -1,0 +1,98 @@
+C:\Users\Borisa\Desktop\New folder\BorisaAlargic\BorisaAlargic\UI\bin\Debug\UI.dll
+C:\Users\Borisa\Desktop\New folder\BorisaAlargic\BorisaAlargic\UI\bin\Debug\UI.pdb
+C:\Users\Borisa\Desktop\New folder\BorisaAlargic\BorisaAlargic\UI\bin\Debug\CompositeCommon.dll
+C:\Users\Borisa\Desktop\New folder\BorisaAlargic\BorisaAlargic\UI\bin\Debug\Core.dll
+C:\Users\Borisa\Desktop\New folder\BorisaAlargic\BorisaAlargic\UI\bin\Debug\Model.dll
+C:\Users\Borisa\Desktop\New folder\BorisaAlargic\BorisaAlargic\UI\bin\Debug\Persistance.dll
+C:\Users\Borisa\Desktop\New folder\BorisaAlargic\BorisaAlargic\UI\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Borisa\Desktop\New folder\BorisaAlargic\BorisaAlargic\UI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Borisa\Desktop\New folder\BorisaAlargic\BorisaAlargic\UI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Borisa\Desktop\New folder\BorisaAlargic\BorisaAlargic\UI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Borisa\Desktop\New folder\BorisaAlargic\BorisaAlargic\UI\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Borisa\Desktop\New folder\BorisaAlargic\BorisaAlargic\UI\bin\Debug\CompositeCommon.pdb
+C:\Users\Borisa\Desktop\New folder\BorisaAlargic\BorisaAlargic\UI\bin\Debug\Core.pdb
+C:\Users\Borisa\Desktop\New folder\BorisaAlargic\BorisaAlargic\UI\bin\Debug\Model.pdb
+C:\Users\Borisa\Desktop\New folder\BorisaAlargic\BorisaAlargic\UI\bin\Debug\Persistance.pdb
+C:\Users\Borisa\Desktop\New folder\BorisaAlargic\BorisaAlargic\UI\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Borisa\Desktop\New folder\BorisaAlargic\BorisaAlargic\UI\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Borisa\Desktop\New folder\BorisaAlargic\BorisaAlargic\UI\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Borisa\Desktop\New folder\BorisaAlargic\BorisaAlargic\UI\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Borisa\Desktop\New folder\BorisaAlargic\BorisaAlargic\UI\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Borisa\Desktop\New folder\BorisaAlargic\BorisaAlargic\UI\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Borisa\Desktop\New folder\BorisaAlargic\BorisaAlargic\UI\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Borisa\Desktop\New folder\BorisaAlargic\BorisaAlargic\UI\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Borisa\Desktop\New folder\BorisaAlargic\BorisaAlargic\UI\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Borisa\Desktop\New folder\BorisaAlargic\BorisaAlargic\UI\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Borisa\Desktop\New folder\BorisaAlargic\BorisaAlargic\UI\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Borisa\Desktop\New folder\BorisaAlargic\BorisaAlargic\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\Borisa\Desktop\New folder\BorisaAlargic\BorisaAlargic\UI\obj\Debug\Components\Content\View\ContentView.g.cs
+C:\Users\Borisa\Desktop\New folder\BorisaAlargic\BorisaAlargic\UI\obj\Debug\Components\Login\View\LoginView.g.cs
+C:\Users\Borisa\Desktop\New folder\BorisaAlargic\BorisaAlargic\UI\obj\Debug\Components\Toolbar\View\ToolbarView.g.cs
+C:\Users\Borisa\Desktop\New folder\BorisaAlargic\BorisaAlargic\UI\obj\Debug\Dialog\View\DrugView.g.cs
+C:\Users\Borisa\Desktop\New folder\BorisaAlargic\BorisaAlargic\UI\obj\Debug\Dialog\View\ReceitView.g.cs
+C:\Users\Borisa\Desktop\New folder\BorisaAlargic\BorisaAlargic\UI\obj\Debug\Dialog\View\RecepieView.g.cs
+C:\Users\Borisa\Desktop\New folder\BorisaAlargic\BorisaAlargic\UI\obj\Debug\Dialog\View\UserView.g.cs
+C:\Users\Borisa\Desktop\New folder\BorisaAlargic\BorisaAlargic\UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Borisa\Desktop\New folder\BorisaAlargic\BorisaAlargic\UI\obj\Debug\UI_MarkupCompile.cache
+C:\Users\Borisa\Desktop\New folder\BorisaAlargic\BorisaAlargic\UI\obj\Debug\UI_MarkupCompile.lref
+C:\Users\Borisa\Desktop\New folder\BorisaAlargic\BorisaAlargic\UI\obj\Debug\Components\Content\View\ContentView.baml
+C:\Users\Borisa\Desktop\New folder\BorisaAlargic\BorisaAlargic\UI\obj\Debug\Components\Login\View\LoginView.baml
+C:\Users\Borisa\Desktop\New folder\BorisaAlargic\BorisaAlargic\UI\obj\Debug\Components\Toolbar\View\ToolbarView.baml
+C:\Users\Borisa\Desktop\New folder\BorisaAlargic\BorisaAlargic\UI\obj\Debug\Dialog\View\DrugView.baml
+C:\Users\Borisa\Desktop\New folder\BorisaAlargic\BorisaAlargic\UI\obj\Debug\Dialog\View\ReceitView.baml
+C:\Users\Borisa\Desktop\New folder\BorisaAlargic\BorisaAlargic\UI\obj\Debug\Dialog\View\RecepieView.baml
+C:\Users\Borisa\Desktop\New folder\BorisaAlargic\BorisaAlargic\UI\obj\Debug\Dialog\View\UserView.baml
+C:\Users\Borisa\Desktop\New folder\BorisaAlargic\BorisaAlargic\UI\obj\Debug\UI.g.resources
+C:\Users\Borisa\Desktop\New folder\BorisaAlargic\BorisaAlargic\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\Borisa\Desktop\New folder\BorisaAlargic\BorisaAlargic\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\Borisa\Desktop\New folder\BorisaAlargic\BorisaAlargic\UI\obj\Debug\UI.dll
+C:\Users\Borisa\Desktop\New folder\BorisaAlargic\BorisaAlargic\UI\obj\Debug\UI.pdb
+C:\Users\Borisa\Desktop\BorisaAlargic\UI\bin\Debug\UI.dll
+C:\Users\Borisa\Desktop\BorisaAlargic\UI\bin\Debug\UI.pdb
+C:\Users\Borisa\Desktop\BorisaAlargic\UI\bin\Debug\CompositeCommon.dll
+C:\Users\Borisa\Desktop\BorisaAlargic\UI\bin\Debug\Core.dll
+C:\Users\Borisa\Desktop\BorisaAlargic\UI\bin\Debug\Model.dll
+C:\Users\Borisa\Desktop\BorisaAlargic\UI\bin\Debug\Persistance.dll
+C:\Users\Borisa\Desktop\BorisaAlargic\UI\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Borisa\Desktop\BorisaAlargic\UI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Borisa\Desktop\BorisaAlargic\UI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Borisa\Desktop\BorisaAlargic\UI\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Borisa\Desktop\BorisaAlargic\UI\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Borisa\Desktop\BorisaAlargic\UI\bin\Debug\CompositeCommon.pdb
+C:\Users\Borisa\Desktop\BorisaAlargic\UI\bin\Debug\Core.pdb
+C:\Users\Borisa\Desktop\BorisaAlargic\UI\bin\Debug\Model.pdb
+C:\Users\Borisa\Desktop\BorisaAlargic\UI\bin\Debug\Persistance.pdb
+C:\Users\Borisa\Desktop\BorisaAlargic\UI\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Borisa\Desktop\BorisaAlargic\UI\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Borisa\Desktop\BorisaAlargic\UI\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Borisa\Desktop\BorisaAlargic\UI\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Borisa\Desktop\BorisaAlargic\UI\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Borisa\Desktop\BorisaAlargic\UI\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Borisa\Desktop\BorisaAlargic\UI\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Borisa\Desktop\BorisaAlargic\UI\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Borisa\Desktop\BorisaAlargic\UI\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Borisa\Desktop\BorisaAlargic\UI\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Borisa\Desktop\BorisaAlargic\UI\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Borisa\Desktop\BorisaAlargic\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\Borisa\Desktop\BorisaAlargic\UI\obj\Debug\Components\Content\View\ContentView.g.cs
+C:\Users\Borisa\Desktop\BorisaAlargic\UI\obj\Debug\Components\Login\View\LoginView.g.cs
+C:\Users\Borisa\Desktop\BorisaAlargic\UI\obj\Debug\Components\Toolbar\View\ToolbarView.g.cs
+C:\Users\Borisa\Desktop\BorisaAlargic\UI\obj\Debug\Dialog\View\DrugView.g.cs
+C:\Users\Borisa\Desktop\BorisaAlargic\UI\obj\Debug\Dialog\View\ReceitView.g.cs
+C:\Users\Borisa\Desktop\BorisaAlargic\UI\obj\Debug\Dialog\View\RecepieView.g.cs
+C:\Users\Borisa\Desktop\BorisaAlargic\UI\obj\Debug\Dialog\View\UserView.g.cs
+C:\Users\Borisa\Desktop\BorisaAlargic\UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Borisa\Desktop\BorisaAlargic\UI\obj\Debug\UI_MarkupCompile.cache
+C:\Users\Borisa\Desktop\BorisaAlargic\UI\obj\Debug\UI_MarkupCompile.lref
+C:\Users\Borisa\Desktop\BorisaAlargic\UI\obj\Debug\Components\Content\View\ContentView.baml
+C:\Users\Borisa\Desktop\BorisaAlargic\UI\obj\Debug\Components\Login\View\LoginView.baml
+C:\Users\Borisa\Desktop\BorisaAlargic\UI\obj\Debug\Components\Toolbar\View\ToolbarView.baml
+C:\Users\Borisa\Desktop\BorisaAlargic\UI\obj\Debug\Dialog\View\DrugView.baml
+C:\Users\Borisa\Desktop\BorisaAlargic\UI\obj\Debug\Dialog\View\ReceitView.baml
+C:\Users\Borisa\Desktop\BorisaAlargic\UI\obj\Debug\Dialog\View\RecepieView.baml
+C:\Users\Borisa\Desktop\BorisaAlargic\UI\obj\Debug\Dialog\View\UserView.baml
+C:\Users\Borisa\Desktop\BorisaAlargic\UI\obj\Debug\UI.g.resources
+C:\Users\Borisa\Desktop\BorisaAlargic\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\Borisa\Desktop\BorisaAlargic\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\Borisa\Desktop\BorisaAlargic\UI\obj\Debug\UI.dll
+C:\Users\Borisa\Desktop\BorisaAlargic\UI\obj\Debug\UI.pdb

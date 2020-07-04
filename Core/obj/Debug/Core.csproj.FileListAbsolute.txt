@@ -1,0 +1,22 @@
+C:\Users\Borisa\Desktop\New folder\BorisaAlargic\BorisaAlargic\Core\bin\Debug\Core.dll
+C:\Users\Borisa\Desktop\New folder\BorisaAlargic\BorisaAlargic\Core\bin\Debug\Core.pdb
+C:\Users\Borisa\Desktop\New folder\BorisaAlargic\BorisaAlargic\Core\bin\Debug\Model.dll
+C:\Users\Borisa\Desktop\New folder\BorisaAlargic\BorisaAlargic\Core\bin\Debug\CompositeCommon.dll
+C:\Users\Borisa\Desktop\New folder\BorisaAlargic\BorisaAlargic\Core\bin\Debug\Model.pdb
+C:\Users\Borisa\Desktop\New folder\BorisaAlargic\BorisaAlargic\Core\bin\Debug\CompositeCommon.pdb
+C:\Users\Borisa\Desktop\New folder\BorisaAlargic\BorisaAlargic\Core\obj\Debug\Core.csprojAssemblyReference.cache
+C:\Users\Borisa\Desktop\New folder\BorisaAlargic\BorisaAlargic\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\Borisa\Desktop\New folder\BorisaAlargic\BorisaAlargic\Core\obj\Debug\Core.csproj.CopyComplete
+C:\Users\Borisa\Desktop\New folder\BorisaAlargic\BorisaAlargic\Core\obj\Debug\Core.dll
+C:\Users\Borisa\Desktop\New folder\BorisaAlargic\BorisaAlargic\Core\obj\Debug\Core.pdb
+C:\Users\Borisa\Desktop\BorisaAlargic\Core\bin\Debug\Core.dll
+C:\Users\Borisa\Desktop\BorisaAlargic\Core\bin\Debug\Core.pdb
+C:\Users\Borisa\Desktop\BorisaAlargic\Core\bin\Debug\Model.dll
+C:\Users\Borisa\Desktop\BorisaAlargic\Core\bin\Debug\CompositeCommon.dll
+C:\Users\Borisa\Desktop\BorisaAlargic\Core\bin\Debug\Model.pdb
+C:\Users\Borisa\Desktop\BorisaAlargic\Core\bin\Debug\CompositeCommon.pdb
+C:\Users\Borisa\Desktop\BorisaAlargic\Core\obj\Debug\Core.csprojAssemblyReference.cache
+C:\Users\Borisa\Desktop\BorisaAlargic\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\Borisa\Desktop\BorisaAlargic\Core\obj\Debug\Core.csproj.CopyComplete
+C:\Users\Borisa\Desktop\BorisaAlargic\Core\obj\Debug\Core.dll
+C:\Users\Borisa\Desktop\BorisaAlargic\Core\obj\Debug\Core.pdb
